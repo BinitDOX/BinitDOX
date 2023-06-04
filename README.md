@@ -2,8 +2,6 @@
 
 <br/>
 
-- 🔭 I’m currently doing M.Tech. from IIT BHU
-- 🌱 I’m currently learning about GANs
 - 👯 I’m looking to collaborate on any deep learning research
 - ⚡ Fun fact: Best way to learn about something is to make an interesting project
 
